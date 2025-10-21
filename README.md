@@ -7,4 +7,4 @@
 
 经测试，在 Edge 和 Chrome 上表现良好，可达到 60 fps 的帧率；在 Firefox 上表现欠佳，只有 30 fps 的帧率；在 IE 11 上表现较差，卡顿明显；在 iPhone 的 Safari 上动画更加流畅，但无声效和背景音乐。
 
-在线演示：https://kilofox.net/games/firework/
+在线演示：[https://muffetlab.com/games/fireworks/](https://muffetlab.com/games/fireworks/)
